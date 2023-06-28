@@ -1,4 +1,4 @@
-# google_Plugins
+# Google_Plugins
 
 <h3>Introduction</h3>
 这是我为简化工作而开发的Chrome插件集合。这些插件主要用于解决一些跨境交易方面的问题，旨在通过使用这些工具来提高效率和效果。
